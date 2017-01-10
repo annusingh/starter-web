@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Build and deploy instructions
 
 ## How to contribute
+
+Test and commit to test
