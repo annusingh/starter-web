@@ -17,3 +17,6 @@ Test and commit to test.
 Added one more line after add before commit
 
 Now it should be in working folder modification.
+
+### Copyright
+2017 Copyright
