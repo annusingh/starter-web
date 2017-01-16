@@ -12,4 +12,8 @@ Build and deploy instructions
 
 ## How to contribute
 
-Test and commit to test
+Test and commit to test.
+
+Added one more line after add before commit
+
+Now it should be in working folder modification.
