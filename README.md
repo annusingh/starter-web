@@ -21,4 +21,4 @@ Added one more line after add before commit
 Now it should be in working folder modification.
 
 ### Copyright
-2017 Copyright
+2017 Copyright All rights reserved 
