@@ -12,6 +12,8 @@ Build and deploy instructions
 
 ## How to contribute
 
+Please fork this repo and then issue pull request for review
+
 Test and commit to test.
 
 Added one more line after add before commit
